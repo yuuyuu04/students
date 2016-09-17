@@ -486,6 +486,11 @@
 
 .. Домашняя работа #1
 
+.. |6.dz1.1| replace:: 1
+.. _6.dz.1: https://github.com/yuuyuu04/yuuyuu
+.. |6.dz1.2-4| replace:: 2-4
+.. _6.dz1.2-4: https://gist.github.com/yuuyuu04/67f8a8ba285137e3c5b49b79622e5e47
+
 .. |16.dz1.1| replace:: 1
 .. _16.dz1.1: https://github.com/Hyuugo/myproject
 .. |16.dz1.2-4| replace:: 2-4
